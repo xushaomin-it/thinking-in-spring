@@ -11,7 +11,7 @@
         <module>ioc-container-overview</module>
     </modules>
     <properties>
-        <spring.version>5.2.2.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
     </properties>
     <packaging>pom</packaging>
 
